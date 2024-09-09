@@ -1,6 +1,6 @@
 # Random_Forest_Decision_Region
 
-The repo contains notebook for all the code used in the paper **Interpretable Policy Learning from High Action-Entropy Decision Regions Using Random Forests**
+The repo contains notebook for all the code used in the paper **Interpretable Policy Learning from High Action-Entropy Decision Regions Using Random Forest**
 
 ## Requirements
 
